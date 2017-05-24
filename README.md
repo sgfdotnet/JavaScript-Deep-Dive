@@ -1,7 +1,11 @@
 # JavaScript-Deep-Dive
 JavaScript Deep Dive - Parts 1 and 2 from our January and February Meetups
 
-Code samples will be added soon.
+## Code Samples
+
+https://plnkr.co/edit/jTAKTnqV9mixPqcHBHiF
+
+## Videos
 
 Videos from the two presentations can be found on our YouTube channel!
 
